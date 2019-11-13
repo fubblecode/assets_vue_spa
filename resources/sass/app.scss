@@ -2,12 +2,46 @@
 
 @tailwind components;
 
+
+
+
+
 @tailwind utilities;
+
+
 
 a {
     text-decoration: none;
 }
 
-.container {
-    max-width: 920px;
+// .container {
+//     max-width: 920px;
+// }
+
+// .button {
+//     @apply .border .border-gray-100 .px-8 .py-2 .rounded-full .text-black .font-bold .text-xs;
+//     transition: all 0.3s;
+
+//     &:hover {
+//         @apply .bg-blue-200 .border-blue-light .text-white;
+//     }
+// }
+
+a {
+    text-decoration: none;
+    @apply .font-light;
 }
+
+p {
+    @apply .font-light;
+}
+
+// .container {
+//     max-width: 920px;
+// }
+
+// .section {
+//     @apply .px-8;
+// }
+
+

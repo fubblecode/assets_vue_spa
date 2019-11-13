@@ -11,7 +11,7 @@
         <div class="flex justify-between items-center">
             <p>Original Logo on <strong>white</strong> background</p>
 
-            <a href="/images/logo.svg" class="border border-grey-light px-8 py-2 rounded-full text-black font-bold text-xs">logo.svg</a>
+            <a href="/images/logo.svg" class="border border-gray-200 px-8 py-2 rounded-full text-black font-bold text-xs">logo.svg</a>
         </div>
     </div>
         <div>
@@ -22,7 +22,7 @@
             <div class="flex justify-between items-center">
                 <p>Negative Logo on <strong>white</strong> background</p>
 
-            <a href="/images/negative-logo.svg" class="border border-grey-light px-8 py-2 rounded-full text-black font-bold text-xs">logo.svg</a>
+            <a href="/images/negative-logo.svg" class="border border-gray-200 px-8 py-2 rounded-full text-black font-bold text-xs">logo.svg</a>
         </div>
         </div>
     </div>
