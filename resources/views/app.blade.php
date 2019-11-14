@@ -47,6 +47,7 @@
 
                         <ul class="list-reset">
                             <li class="text-sm pb-4"><router-link class="text-black" to="/site-stats">Site Stats</router-link></li>
+                            <li class="text-sm pb-4"><router-link class="text-black" to="/achievments">Achievments</router-link></li>
                         </ul>
                     </div>
                 </aside>
